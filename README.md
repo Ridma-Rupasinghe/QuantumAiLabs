@@ -8,6 +8,7 @@ Front end ui development of a full stack web application
 - React JS
 - TypeScript
 - Tailwind CSS
+- Docker
 
 ### Libraries Used
 
