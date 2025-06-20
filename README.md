@@ -19,6 +19,17 @@ Front end ui development of a full stack web application
 
 
  
+## Run
+
+Run Docker desktop
+
+Run below two commands in a terminal
+
+- docker build -t quantum:dev .
+
+
+- docker run -p 5173:5173 quantum:dev
+
 
  
 
